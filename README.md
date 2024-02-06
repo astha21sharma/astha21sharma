@@ -1,4 +1,4 @@
-<h1 align="center">Hi Viewers, I'm Astha Sharma.....Currently pursuing my Btech from IIIT bhubaneswar</h1>
+<h1 align="center">Hi Viewers😁, I'm Astha Sharma..</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astha21sharma&label=Profile%20views&color=0e75b6&style=flat" alt="astha21sharma" /> </p>
