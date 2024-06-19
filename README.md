@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astha21sharma" alt="astha21sharma" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks, APIs and linux**
+- 🌱 I’m currently learning **Frameworks, Backend,APIs,OWASP and linux**
 
-- 🤝 I’m looking for help with **cybersecurity projects**
+- Currently dealing with  ** Backend Projects**
+
+- 🤝 I’m looking for growing in the field of **cybersecurity **
 
 - 📫 How to reach me **sharma.18.astha@gmail.com**
 
