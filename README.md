@@ -1,24 +1,86 @@
-<h1 align="center">Hi Viewers😁, I'm Astha Sharma..</h1>
-<h3 align="center">A frontend developer from India</h3>
+<!-- Header with Typing SVG and Emoji -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BC%2C+Astha+Sharma+here+%F0%9F%98%8E" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=astha21sharma&label=Profile%20views&color=0e75b6&style=flat" alt="astha21sharma" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astha21sharma" alt="astha21sharma" /></a> </p>
-
-- 🌱 I’m currently learning **Frameworks, Backend,APIs,OWASP and linux**
-
-- Currently dealing with  ** Backend Projects**
-
-- 🤝 I’m looking for growing in the field of **cybersecurity **
-
-- 📫 How to reach me **sharma.18.astha@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://hashnode.com/@astha21here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@astha21here" height="30" width="40" /></a>
+<!-- Girl Typing GIF -->
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="500" alt="Girl Typing on Laptop">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- Tagline -->
+<p align="center">
+  <b>Frontend Developer | ML Enthusiast | AI Explorer 🚀</b>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astha21sharma&" alt="astha21sharma" /></p>
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=astha21sharma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<!-- Snake Animation -->
+<div align="center">
+  <a href="https://www.devmirza.ml">
+    <img src="https://github.com/Zaid-maker/Zaid-maker/blob/output/github-snake-dark.svg" alt="snake" />
+  </a>
+</div>
+
+<!-- About Me Section -->
+<div align="center">
+  <h2>🚀 About Me</h2>
+</div>
+
+<ul>
+  <li>🌱 Currently learning <strong>Frameworks, Backend, APIs, OWASP, and Linux</strong></li>
+  <li>🛠️ Working on exciting <strong>Backend Projects</strong></li>
+  <li>🔐 Growing in the field of <strong>Cybersecurity</strong></li>
+  <li>📫 Reach me at: <strong><a href="mailto:sharma.18.astha@gmail.com">sharma.18.astha@gmail.com</a></strong></li>
+</ul>
+
+<!-- Social Links -->
+<h2 align="center">😎 You can reach me at:</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zaid-hafeez-7084b0149/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://hashnode.com/@astha21here" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+  </a>
+</p>
+
+<!-- Skills Section -->
+<div align="center">
+  <h2>🛠️ Languages and Tools</h2>
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,tailwind,bootstrap,linux,mysql,aws,gcp,git" />
+</p>
+
+<!-- GitHub Stats Section -->
+<h2 align="center">📊 Github Stats</h2>
+<br />
+<p align="center">
+  <a href="https://github.com/astha21sharma">
+    <img src="https://github-readme-streak-stats-blush-two.vercel.app?user=astha21sharma&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/astha21sharma">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=astha21sharma&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <img width="49.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=astha21sharma&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+  </a>
+</p>
+
+<hr>
+
+<!-- Footer Marquee -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Marquee" />
+  <h3>Thanks for stopping by! ⭐  🚀</h3>
+</div>
