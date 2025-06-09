@@ -31,9 +31,9 @@
 </div>
 
 <ul>
-  <li>🌱 Currently learning <strong>Frameworks, Backend, APIs, OWASP, and Linux</strong></li>
-  <li>🛠️ Working on exciting <strong>Backend Projects</strong></li>
-  <li>🔐 Growing in the field of <strong>Cybersecurity</strong></li>
+  <li>🌱 Currently learning <strong>GEN AI and AI technologies</strong></li>
+  <li>🛠️ Working on exciting <strong>ML projects</strong></li>
+  <li>🔐 Growing in the field of <strong>AI/ML</strong></li>
   <li>📫 Reach me at: <strong><a href="mailto:sharma.18.astha@gmail.com">sharma.18.astha@gmail.com</a></strong></li>
 </ul>
 
