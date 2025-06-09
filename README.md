@@ -41,7 +41,7 @@
 <h2 align="center">😎 You can reach me at:</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/zaid-hafeez-7084b0149/" target="_blank">
+  <a href="https://www.linkedin.com/in/astha-sharma-a49932257/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
 </p>
